@@ -1,0 +1,1 @@
+web: java -jar target/title-aggregator-1.0-SNAPSHOT.jar
